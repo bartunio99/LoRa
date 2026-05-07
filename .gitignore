@@ -1,0 +1,7 @@
+LoRa.code-workspace
+esp/managed_components/
+esp/dependencies.lock
+esp/sdkconfig
+esp/sdkconfig.old
+esp/build/
+.vscode/
